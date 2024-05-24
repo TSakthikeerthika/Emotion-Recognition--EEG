@@ -1,5 +1,5 @@
 # Emotion-Recognition--EEG
-Internship at NIT-T 
+Internship at national Institute of Technology,Tiruchirappalli (NIT-T) 
 
 The codes for the book with OneAPI and , google colab notebooks I created for my internship is all found here.
 
